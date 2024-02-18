@@ -4,4 +4,4 @@
 *.html linguist-language=Java
 *.vue linguist-language=Java
 *.xml linguist-language=Java
-*.sql linguist-language=Java
+*.sq2 linguist-language=Java
